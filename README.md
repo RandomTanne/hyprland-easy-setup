@@ -21,7 +21,7 @@ After that, execute the script by typing `./hyprland-easy-setup.sh`.
 
 **Attention:** Make sure to **not** execute the script with sudo, or the makepkg command will fail.
 
-After the script has finished and your machine has rebooted and you have logged in, you can start Hyprland by either typing `Hyprland` in the command line or executing the `exec-hypr-vm.sh` script that comes with this repo,
+After the script has finished, your machine has rebooted and you have logged in, you can start Hyprland by either typing `Hyprland` in the command line or executing the `exec-hypr-vm.sh` script that comes with this repo,
 in case you are working on a virtual machine.
 
 ### Keyboard shortcuts
